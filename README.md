@@ -74,17 +74,13 @@ pip install numpy opencv-python matplotlib scikit-learn tensorflow
 - Final Validation Accuracy: ~0.88  
 - Training Loss: steadily decreasing over epochs.  
 - Validation Loss: stable after ~20 epochs.  
-
-*(Insert loss/accuracy plots from notebook here)*
 <img width="993" height="374" alt="image" src="https://github.com/user-attachments/assets/c684a272-7fb2-49f7-bca6-96f988349931" />
 
 ### 🖼️ Example Segmentation Results
 | Input Image | Ground Truth Mask | Predicted Mask |
-|-------------|------------------|----------------|
-| ![Input](assets/sample_img.png) | ![Mask](assets/sample_mask.png) | ![Pred](assets/sample_pred.png) |
 <img width="950" height="315" alt="image" src="https://github.com/user-attachments/assets/37479ed3-cd57-4e9c-ba5d-ce36af6bc636" />
-
-*(You can export visualizations from the notebook and place them inside an `assets/` folder for README illustration.)*
+<img width="950" height="315" alt="image" src="https://github.com/user-attachments/assets/fff9c201-898d-4575-af2f-f61f433f101e" />
+<img width="950" height="315" alt="image" src="https://github.com/user-attachments/assets/c272d73d-d7e7-4266-b813-6001020d2348" />
 
 ---
 
