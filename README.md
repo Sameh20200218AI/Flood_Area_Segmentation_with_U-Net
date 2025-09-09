@@ -73,7 +73,6 @@ pip install numpy opencv-python matplotlib scikit-learn tensorflow
 - Final Training Accuracy: ~0.89  
 - Final Validation Accuracy: ~0.88  
 - Training Loss: steadily decreasing over epochs.  
-- Validation Loss: stable after ~20 epochs.  
 <img width="993" height="374" alt="image" src="https://github.com/user-attachments/assets/c684a272-7fb2-49f7-bca6-96f988349931" />
 
 ### 🖼️ Example Segmentation Results
